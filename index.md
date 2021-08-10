@@ -23,7 +23,7 @@ So far, everyone has come to be associated with PEAL by their connection with th
 
 ## Projects
 
-### ★ [Vole](https://peal.github.io/vole)
+### ★ Vole
 
 [Vole](https://peal.github.io/vole)
 is a GAP package written in Rust
@@ -32,7 +32,7 @@ that aims to provide a high-performance implementation of the graph backtracking
 Vole also implements new tools for canonising in arbitrary finite permutation groups, whose underlying theory is in preparation for publication.
 
 
-### ★ [GraphBacktracking](https://github.com/peal/GraphBacktracking)
+### ★ GraphBacktracking
 
 [GraphBacktracking](https://github.com/peal/GraphBacktracking)
 is a GAP package that provides a proof-of-concept implementation of the 
@@ -40,13 +40,13 @@ graph backtracking algorithm of the paper
 “[Permutation group algorithms based on directed graphs](https://doi.org/10.1016/j.jalgebra.2021.06.015)”.  The GraphBacktracking package was used for the experiments described in that paper, and is not intended to have high performance.
 
 
-### ★ [BacktrackKit](https://github.com/peal/BacktrackKit)
+### ★ BacktrackKit
 
 [BacktrackKit](https://github.com/peal/BacktrackKit)
 is a GAP package that aims to provide a reference implementation of the partition backtracking algorithm of [Jeffrey Leon](https://doi.org/10.1016/S0747-7171(08)80103-4). It is not intended to have high performance.
 
 
-### ★ [DirectDisjointProdDecomposition](https://github.com/peal/DisjointDirectProdDecomposition)
+### ★ DirectDisjointProdDecomposition
 
 [DirectDisjointProdDecomposition](https://github.com/peal/DisjointDirectProdDecomposition)
 is a collection of GAP code that includes an implementation of the algorithm described in the paper “[Disjoint direct product decompositions of permutation groups](https://doi.org/10.1016/j.jsc.2021.04.003)”, along with the code that was used for the experiments in that paper.
@@ -56,7 +56,7 @@ whose factors act on disjoint sets of points, into those factors.
 DirectDisjointProdDecomposition was created by Mun See Chang and Christopher Jefferson.
 
 
-### ★ [GrpLib](https://peal.github.io/grplib)
+### ★ GrpLib
 
 [GrpLib](https://peal.github.io/grplib) is a library of problems in computational group theory, along with a library of families of permutation groups. These groups are provided in a format that allows them to be easily used in computations.
 

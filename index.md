@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+# PEAL: Permutation groups and algorithms
 
-You can use the [editor on GitHub](https://github.com/peal/peal.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**PEAL** is an organisation that hosts a collection of tools for computing with
+permutation groups.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here we list the people that have been involved in PEAL so far, our projects, and our associated written publications.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## People
 
-```markdown
-Syntax highlighted code block
+Each of the following projects has its own collection of authors, maintainers, and contributors.
+Here, we simply list everyone who has contributed to PEAL in one way or another.
+So far, everyone has come to be associated with PEAL by their connection with the [AI Research Group](https://airg.cs.st-andrews.ac.uk) at the [School of Computer Science](https://www.st-andrews.ac.uk/computer-science) of the [University of St Andrews](https://www.st-andrews.ac.uk).
 
-# Header 1
-## Header 2
-### Header 3
+* [Christopher Jefferson](https://caj.host.cs.st-andrews.ac.uk)
+* [Wilf A. Wilson](https://wilf.me)
+* [Ruth Hoffmann](https://rh347.host.cs.st-andrews.ac.uk)
+* Mun See Chang
+* Ewan Gilligan
+* [Markus Pfeiffer](https://markusp.morphism.de)
+* Giacomo Fenzi
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Projects
 
-**Bold** and _Italic_ and `Code` text
+### [Vole](https://peal.github.io/vole)
 
-[Link](url) and ![Image](src)
-```
+[Vole](https://peal.github.io/vole)
+is a GAP package written in Rust
+that aims to provide a high-performance implementation of the graph backtracking algorithm of the paper
+“[Permutation group algorithms based on directed graphs](https://doi.org/10.1016/j.jalgebra.2021.06.015)”.
+Vole also implements new tools for canonising in arbitrary finite permutation groups, whose underlying theory is in preparation for publication.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Vole is still under active development.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/peal/peal.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### [GraphBacktracking](https://github.com/peal/GraphBacktracking)
 
-### Support or Contact
+[GraphBacktracking](https://github.com/peal/GraphBacktracking)
+is a GAP package that provides a proof-of-concept implementation of the 
+graph backtracking algorithm of the paper
+“[Permutation group algorithms based on directed graphs](https://doi.org/10.1016/j.jalgebra.2021.06.015)”.  The GraphBacktracking package was used for the experiments described in that paper, and is not intended to be high performance.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### [BacktrackKit](https://github.com/peal/BacktrackKit)
+
+[BacktrackKit](https://github.com/peal/BacktrackKit)
+is a GAP package that aims to provide a reference implementation of the partition backtracking algorithm of [Jeffrey Leon](https://doi.org/10.1016/S0747-7171(08)80103-4).
+
+
+### [DirectDisjointProdDecomposition](https://github.com/peal/DisjointDirectProdDecomposition)
+
+[DirectDisjointProdDecomposition](https://github.com/peal/DisjointDirectProdDecomposition)
+is a collection of GAP code that includes an implementation of the algorithm described in the paper “[Disjoint direct product decompositions of permutation groups](https://doi.org/10.1016/j.jsc.2021.04.003)”, along with the code that was used for the experiments in that paper.
+
+
+### [GrpLib](https://peal.github.io/grplib)
+
+[GrpLib](https://peal.github.io/grplib) is a library of problems in computational group theory, along with a library of familes of permutation groups. These groups are provided in a format that allows them to be easily used in computations.
+
+GrpLib is maintained by Ruth Hoffmann and Christopher Jefferson.
+
+
+## Associated PEAL publications
+
+* Mun See Chang and Christopher Jefferson, **“Disjoint direct product decompositions of permutation groups”**, _Journal of Symbolic Computation_ **108** (2022) 1–16.
+	* DOI: [10.1016/j.jsc.2021.04.003](https://doi.org/10.1016/j.jsc.2021.04.003)
+	* arXiv: [2004.11618](https://arxiv.org/abs/2004.11618)
+
+* Christopher Jefferson, Markus Pfeiffer, Rebecca Waldecker, and Wilf A. Wilson, **“Permutation group algorithms based on directed graphs”**, _Journal of Algebra_ **585** (2021) 723–758.
+	* DOI: [10.1016/j.jalgebra.2021.06.015](https://doi.org/10.1016/j.jalgebra.2021.06.015)
+	* arXiv: [2106.13132](https://arxiv.org/abs/2106.13132)
+		* An earlier, extended version of this paper is available at arXiv: [1911.04783](https://arxiv.org/abs/1911.04783).

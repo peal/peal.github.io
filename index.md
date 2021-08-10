@@ -50,6 +50,10 @@ is a GAP package that aims to provide a reference implementation of the partitio
 
 [DirectDisjointProdDecomposition](https://github.com/peal/DisjointDirectProdDecomposition)
 is a collection of GAP code that includes an implementation of the algorithm described in the paper “[Disjoint direct product decompositions of permutation groups](https://doi.org/10.1016/j.jsc.2021.04.003)”, along with the code that was used for the experiments in that paper.
+This algorithm decomposes a permutation group that is a direct product,
+whose factors act on disjoint sets of points, into those factors.
+
+DirectDisjointProdDecomposition was created by Mun See Chang and Christopher Jefferson.
 
 
 ### ★ [GrpLib](https://peal.github.io/grplib)

@@ -58,7 +58,7 @@ DirectDisjointProdDecomposition was created by Mun See Chang and Christopher Jef
 
 ### ★ [GrpLib](https://peal.github.io/grplib)
 
-[GrpLib](https://peal.github.io/grplib) is a library of problems in computational group theory, along with a library of familes of permutation groups. These groups are provided in a format that allows them to be easily used in computations.
+[GrpLib](https://peal.github.io/grplib) is a library of problems in computational group theory, along with a library of families of permutation groups. These groups are provided in a format that allows them to be easily used in computations.
 
 GrpLib is maintained by Ruth Hoffmann and Christopher Jefferson.
 

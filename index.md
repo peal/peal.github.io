@@ -31,21 +31,19 @@ that aims to provide a high-performance implementation of the graph backtracking
 “[Permutation group algorithms based on directed graphs](https://doi.org/10.1016/j.jalgebra.2021.06.015)”.
 Vole also implements new tools for canonising in arbitrary finite permutation groups, whose underlying theory is in preparation for publication.
 
-Vole is still under active development.
-
 
 ### [GraphBacktracking](https://github.com/peal/GraphBacktracking)
 
 [GraphBacktracking](https://github.com/peal/GraphBacktracking)
 is a GAP package that provides a proof-of-concept implementation of the 
 graph backtracking algorithm of the paper
-“[Permutation group algorithms based on directed graphs](https://doi.org/10.1016/j.jalgebra.2021.06.015)”.  The GraphBacktracking package was used for the experiments described in that paper, and is not intended to be high performance.
+“[Permutation group algorithms based on directed graphs](https://doi.org/10.1016/j.jalgebra.2021.06.015)”.  The GraphBacktracking package was used for the experiments described in that paper, and is not intended to have high performance.
 
 
 ### [BacktrackKit](https://github.com/peal/BacktrackKit)
 
 [BacktrackKit](https://github.com/peal/BacktrackKit)
-is a GAP package that aims to provide a reference implementation of the partition backtracking algorithm of [Jeffrey Leon](https://doi.org/10.1016/S0747-7171(08)80103-4).
+is a GAP package that aims to provide a reference implementation of the partition backtracking algorithm of [Jeffrey Leon](https://doi.org/10.1016/S0747-7171(08)80103-4). It is not intended to have high performance.
 
 
 ### [DirectDisjointProdDecomposition](https://github.com/peal/DisjointDirectProdDecomposition)

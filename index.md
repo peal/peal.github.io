@@ -66,10 +66,11 @@ GrpLib is maintained by Ruth Hoffmann and Christopher Jefferson.
 ## Associated PEAL publications
 
 * Mun See Chang and Christopher Jefferson, **“Disjoint direct product decompositions of permutation groups”**, _Journal of Symbolic Computation_ **108** (2022) 1–16.
-	* DOI: [10.1016/j.jsc.2021.04.003](https://doi.org/10.1016/j.jsc.2021.04.003)
-	* arXiv: [2004.11618](https://arxiv.org/abs/2004.11618)
+    * DOI: [10.1016/j.jsc.2021.04.003](https://doi.org/10.1016/j.jsc.2021.04.003)
+    * arXiv: [2004.11618](https://arxiv.org/abs/2004.11618)
+
 
 * Christopher Jefferson, Markus Pfeiffer, Rebecca Waldecker, and Wilf A. Wilson, **“Permutation group algorithms based on directed graphs”**, _Journal of Algebra_ **585** (2021) 723–758.
-	* DOI: [10.1016/j.jalgebra.2021.06.015](https://doi.org/10.1016/j.jalgebra.2021.06.015)
-	* arXiv: [2106.13132](https://arxiv.org/abs/2106.13132)
-		* An earlier, extended version of this paper is available at arXiv: [1911.04783](https://arxiv.org/abs/1911.04783).
+    * DOI: [10.1016/j.jalgebra.2021.06.015](https://doi.org/10.1016/j.jalgebra.2021.06.015)
+    * arXiv: [2106.13132](https://arxiv.org/abs/2106.13132)
+        * An earlier, extended version of this paper is available at arXiv: [1911.04783](https://arxiv.org/abs/1911.04783).

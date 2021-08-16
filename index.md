@@ -34,7 +34,7 @@ Vole also implements new tools for canonising in arbitrary finite permutation gr
 
 ### ★ GraphBacktracking
 
-[GraphBacktracking](https://github.com/peal/GraphBacktracking)
+[GraphBacktracking](https://peal.github.io/GraphBacktracking)
 is a GAP package that provides a proof-of-concept implementation of the 
 graph backtracking algorithm of the paper
 “[Permutation group algorithms based on directed graphs](https://doi.org/10.1016/j.jalgebra.2021.06.015)”.  The GraphBacktracking package was used for the experiments described in that paper, and is not intended to have high performance.
@@ -42,7 +42,7 @@ graph backtracking algorithm of the paper
 
 ### ★ BacktrackKit
 
-[BacktrackKit](https://github.com/peal/BacktrackKit)
+[BacktrackKit](https://peal.github.io/BacktrackKit)
 is a GAP package that aims to provide a reference implementation of the partition backtracking algorithm of [Jeffrey Leon](https://doi.org/10.1016/S0747-7171(08)80103-4). It is not intended to have high performance.
 
 

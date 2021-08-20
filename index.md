@@ -3,14 +3,16 @@
 **PEAL** is an organisation that hosts a collection of tools for computing with
 permutation groups.
 
-Here we list the people that have been involved in PEAL so far, our projects, and our associated written publications.
+Here we list the people that have been directly involved in PEAL so far,
+our projects within PEAL, and our associated written publications.
 
 
 ## People
 
 Each of the following projects has its own collection of authors, maintainers, and contributors.
-Here, we simply list everyone who has contributed to PEAL in one way or another.
-So far, everyone has come to be associated with PEAL by their connection with the [AI Research Group](https://airg.cs.st-andrews.ac.uk) at the [School of Computer Science](https://www.st-andrews.ac.uk/computer-science) of the [University of St Andrews](https://www.st-andrews.ac.uk).
+Here, we simply list the union of these people,
+i.e. everyone who has directly contributed to PEAL’s tools, in one way or another.
+So far, we have all come to be associated with PEAL by our connections with the [AI Research Group](https://airg.cs.st-andrews.ac.uk) at the [School of Computer Science](https://www.st-andrews.ac.uk/computer-science) of the [University of St Andrews](https://www.st-andrews.ac.uk).
 
 * [Christopher Jefferson](https://caj.host.cs.st-andrews.ac.uk)
 * [Wilf A. Wilson](https://wilf.me)
@@ -22,6 +24,7 @@ So far, everyone has come to be associated with PEAL by their connection with th
 
 
 ## Projects
+
 
 ### ★ Vole
 
